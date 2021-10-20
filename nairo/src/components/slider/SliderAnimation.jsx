@@ -7,11 +7,9 @@ const conctInfo = {
 };
 
 const sliderContent = {
-  name: "Nairobi Gadot",
+  name: "Amanda Edling",
   designation: "Full-stack Developer",
-  description: `I design and develop services for customers of all sizes,
-  specializing in creating stylish, modern websites, web
-  services and online stores.`,
+  description: `I have over a decade of experience creating user experiences for large e-commerce sites (like Dicks Sporting Goods and Arrow Electronics) as well educational platforms, apps, smart tv apps and enterprise software.`,
   btnText: " Donwload CV",
 };
 
@@ -27,16 +25,6 @@ const Slider = () => {
               {conctInfo.email}
             </a>
           </div>
-          <div className="hb-lang">
-            <ul className="nav">
-              <li className="active">
-                <a href="#">EN</a>
-              </li>
-              <li>
-                <a href="#">FR</a>
-              </li>
-            </ul>
-          </div>
         </div>
         {/* End hp-top-fixed */}
 
@@ -45,7 +33,7 @@ const Slider = () => {
             <div className="col-lg-7">
               <div className="type-box">
                 <h6 data-aos="fade-up" data-aos-duration="1200">
-                  Hello, My name is
+                  Hello, my name is ...
                 </h6>
                 <h1
                   className="font-alt"
@@ -61,9 +49,9 @@ const Slider = () => {
                   data-aos-delay="200"
                 >
                   <TextLoop>
-                    <p className="loop-text lead">Full-stack Developer</p>
-                    <p className="loop-text lead"> UI/UX Designer</p>
-                    <p className="loop-text lead"> App Developer</p>
+                    <p className="loop-text lead">UX Designer</p>
+                    <p className="loop-text lead"> UX Researcher</p>
+                    <p className="loop-text lead"> Creative Lead</p>
                   </TextLoop>
                 </div>
 
@@ -98,7 +86,7 @@ const Slider = () => {
           className="hb-me"
           style={{
             backgroundImage: `url(${
-              process.env.PUBLIC_URL + "img/slider/home-banner.png"
+              process.env.PUBLIC_URL + "img/slider/put-image-here.png"
             })`,
           }}
         ></div>

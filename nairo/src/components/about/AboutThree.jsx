@@ -26,7 +26,7 @@ const AboutThree = () => {
                 {/* End img */}
                 <div className="info">
                   <p>Ux/Ui Designer</p>
-                  <h3>John Smith</h3>
+                  <h3>Amanda Edling</h3>
                 </div>
                 {/* End info */}
               </div>

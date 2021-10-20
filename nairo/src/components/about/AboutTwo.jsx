@@ -22,7 +22,7 @@ const AboutTwo = () => {
                 {/* End img */}
                 <div className="info">
                   <p>Ux/Ui Designer</p>
-                  <h3>Nairobi Gadot</h3>
+                  <h3>Amanda Edling</h3>
                 </div>
                 {/* End info */}
               </div>
@@ -55,7 +55,7 @@ const AboutTwo = () => {
                       <ul>
                         <li>
                           <label>Name: </label>
-                          <span>Nairobi Gadot</span>
+                          <span>Amanda Edling</span>
                         </li>
                         <li>
                           <label>Birthday: </label>

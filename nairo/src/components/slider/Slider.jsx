@@ -7,7 +7,7 @@ const conctInfo = {
 };
 
 const sliderContent = {
-  name: "Nairobi Gadot",
+  name: "Amanda Edling",
   description: `I design and develop services for customers of all sizes,
   specializing in creating stylish, modern websites, web
   services and online stores.`,
@@ -25,16 +25,6 @@ const Slider = () => {
             <a href="mailto:mail%20to:ibthemes21@gmail.com,com">
               {conctInfo.email}
             </a>
-          </div>
-          <div className="hb-lang">
-            <ul className="nav">
-              <li className="active">
-                <a href="#">EN</a>
-              </li>
-              <li>
-                <a href="#">FR</a>
-              </li>
-            </ul>
           </div>
         </div>
         {/* End hp-top-fixed */}
