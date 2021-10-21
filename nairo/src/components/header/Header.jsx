@@ -2,13 +2,7 @@ import React, { useState } from "react";
 import Scrollspy from "react-scrollspy";
 import { Link } from "react-router-dom";
 import ReactTooltip from "react-tooltip";
-import {
-  FiUser,
-  FiBriefcase,
-  FiFileText,
-  FiPhoneOutgoing,
-} from "react-icons/fi";
-import { HiHome, HiPencil } from "react-icons/hi";
+import { HiHome, HiPencil, HiUser, HiDocumentDownload, HiDesktopComputer, HiMail } from "react-icons/hi";
 
 const Header = () => {
   const [click, setClick] = useState(false);
@@ -66,7 +60,7 @@ const Header = () => {
                 data-for="ABOUT"
                 onClick={handleClick}
               >
-                <FiUser />
+                <HiUser />
                 <ReactTooltip id="ABOUT" place="top" type="dark" effect="float">
                   <span>About</span>
                 </ReactTooltip>
@@ -80,7 +74,7 @@ const Header = () => {
                 data-for="RESUME"
                 onClick={handleClick}
               >
-                <FiFileText />
+                <HiDocumentDownload />
                 <ReactTooltip
                   id="RESUME"
                   place="top"
@@ -99,7 +93,7 @@ const Header = () => {
                 data-for="WORK"
                 onClick={handleClick}
               >
-                <FiBriefcase />
+                <HiDesktopComputer />
                 <ReactTooltip id="WORK" place="top" type="dark" effect="float">
                   <span>Work</span>
                 </ReactTooltip>
@@ -127,7 +121,7 @@ const Header = () => {
                 data-for="CONTACT"
                 onClick={handleClick}
               >
-                <FiPhoneOutgoing />
+                <HiMail />
                 <ReactTooltip
                   id="CONTACT"
                   place="top"
