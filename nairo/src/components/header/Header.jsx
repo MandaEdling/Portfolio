@@ -8,7 +8,7 @@ import {
   FiFileText,
   FiPhoneOutgoing,
 } from "react-icons/fi";
-import { FaHome, FaBlog } from "react-icons/fa";
+import { HiHome, HiPencil } from "react-icons/hi";
 
 const Header = () => {
   const [click, setClick] = useState(false);
@@ -52,7 +52,7 @@ const Header = () => {
                 data-for="HOME"
                 onClick={handleClick}
               >
-                <FaHome />
+                <HiHome />
                 <ReactTooltip id="HOME" place="top" type="dark" effect="float">
                   <span>Home</span>
                 </ReactTooltip>
@@ -113,7 +113,7 @@ const Header = () => {
                 data-for="BLOG"
                 onClick={handleClick}
               >
-                <FaBlog />
+                <HiPencil />
                 <ReactTooltip id="BLOG" place="top" type="dark" effect="float">
                   <span>Blog</span>
                 </ReactTooltip>

@@ -4,7 +4,7 @@
   position: relative;
   display: inline-block;
   background: none;
-  border: 1px solid transparent;
+  border: 2px solid transparent;
   border-radius: 4px;
   font-size: 16px;
   font-weight: 500;
@@ -13,7 +13,7 @@
   letter-spacing: 0.3px;
   cursor: pointer !important;
   &.btn-outline {
-    border: 1px solid $px-theme;
+    border: 2px solid $px-theme;
     &:hover {
       background: $px-theme;
       color: #fff;
@@ -21,7 +21,7 @@
   }
   &.px-btn-theme {
     background: $px-theme;
-    border: 1px solid $px-theme;
+    border: 2px solid $px-theme;
     color: #fff;
     &:hover {
       background: $px-white;
@@ -31,18 +31,18 @@
   &.px-btn-white {
     background: $px-white;
     border-color: $px-white;
-    color: $px-dark;
+    color: $px-theme;
     .theme-light & {
       color: $px-white;
-      background: $px-dark;
-      border-color: $px-dark;
+      background: $px-theme;
+      border-color: $px-theme;
     }
     &:hover {
       background: transparent;
       color: $px-white;
-      transform: translateY(-3px);
+      transform: translateY(0px);
       .theme-light & {
-        color: $px-dark;
+        color: $px-theme;
       }
     }
   }
