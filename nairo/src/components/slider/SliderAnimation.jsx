@@ -2,12 +2,12 @@ import React from "react";
 import TextLoop from "react-text-loop";
 
 const conctInfo = {
-  phone: "+04 6545-9535-6515",
-  email: " nairobi-designer@domain.com",
+  phone: "303-522-0804",
+  email: "artmyshkin@gmail.com",
 };
 
 const sliderContent = {
-  name: "Amanda Edling",
+  name: "Amanda",
   designation: "Full-stack Developer",
   description: `I have over a decade of experience creating user experiences for large e-commerce sites (like Dicks Sporting Goods and Arrow Electronics) as well educational platforms, apps, smart tv apps and enterprise software.`,
   btnText: " Donwload CV",
@@ -86,7 +86,7 @@ const Slider = () => {
           className="hb-me"
           style={{
             backgroundImage: `url(${
-              process.env.PUBLIC_URL + "img/slider/put-image-here.png"
+              process.env.PUBLIC_URL + "img/slider/profile.png"
             })`,
           }}
         ></div>

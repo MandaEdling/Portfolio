@@ -55,7 +55,7 @@ const About = () => {
                       <ul>
                         <li>
                           <label>Name: </label>
-                          <span>Nairobi Gadot</span>
+                          <span>Amanda Edling</span>
                         </li>
                         <li>
                           <label>Birthday: </label>
