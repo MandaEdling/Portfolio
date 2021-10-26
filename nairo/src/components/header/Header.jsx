@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Scrollspy from "react-scrollspy";
 import { Link } from "react-router-dom";
 import ReactTooltip from "react-tooltip";
-import { HiHome, HiPencil, HiUser, HiDocumentDownload, HiDesktopComputer, HiMail } from "react-icons/hi";
+import { HiHome, HiUser, HiDocumentDownload, HiDesktopComputer, HiMail } from "react-icons/hi";
 
 const Header = () => {
   const [click, setClick] = useState(false);
@@ -27,14 +27,14 @@ const Header = () => {
         <div className="scroll-bar">
           <div className="hl-top">
             <div className="hl-logo">
-              <Link to="/">N</Link>
+              <Link to="/">AE</Link>
             </div>
           </div>
           {/* End htl-top */}
 
           <Scrollspy
             className="nav nav-menu"
-            items={["home", "about", "resume", "work", "blog", "contactus"]}
+            items={["home", "about", "resume", "work", "contactus"]}
             currentClassName="active"
             offset={-30}
           >
@@ -96,20 +96,6 @@ const Header = () => {
                 <HiDesktopComputer />
                 <ReactTooltip id="WORK" place="top" type="dark" effect="float">
                   <span>Work</span>
-                </ReactTooltip>
-              </a>
-            </li>
-            <li>
-              <a
-                className="nav-link"
-                href="#blog"
-                data-tip
-                data-for="BLOG"
-                onClick={handleClick}
-              >
-                <HiPencil />
-                <ReactTooltip id="BLOG" place="top" type="dark" effect="float">
-                  <span>Blog</span>
                 </ReactTooltip>
               </a>
             </li>

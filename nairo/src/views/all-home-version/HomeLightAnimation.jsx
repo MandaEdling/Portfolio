@@ -4,7 +4,7 @@ import Slider from "../../components/slider/SliderAnimation";
 import About from "../../components/about/AboutAnimation";
 import Resume from "../../components/resume/ResumeAnimation";
 import Portfolio from "../../components/portfolio/PortfolioAnimation";
-import Blog from "../../components/blog/BlogAnimation";
+//import Blog from "../../components/blog/BlogAnimation";
 import Contact from "../../components/contact/Contact";
 import ContactInfo from "../../components/contact/ContactInfo";
 import Map from "../../components/contact/Map";
@@ -40,14 +40,14 @@ const HomeOne = () => {
       </section>
       {/* End Portfolio Section */}
 
-      <section id="blog" className="section">
+      {/*<section id="blog" className="section">
         <div className="container">
           <div className="title">
             <h3>Latest Blog.</h3>
           </div>
           <Blog />
         </div>
-      </section>
+  </section>*/}
       {/* End Portfolio Section */}
 
       <section id="contactus" className="section theme-light dark-bg">

@@ -27,7 +27,7 @@ const About = () => {
                 </div>
                 {/* End img */}
                 <div className="info">
-                  <p>Ux/Ui Designer</p>
+                  <p>Ux Designer</p>
                   <h3>Amanda Edling</h3>
                 </div>
                 {/* End info */}
@@ -44,20 +44,14 @@ const About = () => {
             >
               <div className="about-info">
                 <div className="title">
-                  <h3>Biography</h3>
+                  <h3>Who I am.</h3>
                 </div>
                 <div className="about-text">
                   <p>
-                    I'm a Freelancer Front-end Developer with over 3 years of
-                    experience. I'm from San Francisco. I code and create web
-                    elements for amazing people around the world. I like work
-                    with new people. New people new Experiences.
-                  </p>
+                    I have worn many hats. I love growing teams and problem solving. I live for moments of insight and discovery.
+                  </p>                  
                   <p>
-                    I'm a Freelancer Front-end Developer with over 3 years of
-                    experience. I'm from San Francisco. I code and create web
-                    elements for amazing people around the world. I like work
-                    with new people. New people new Experiences.
+                    My career as a UX designer has not been a straight line. I began life as a 3D animator, working for a casual subscription based MMO. I started doing UX design and research as a favor for a friend who had a small startup that got bought by the Kudelski Group. I have worked in two different consultancies, becoming a partner in the last one. Instead of taking a money as a buyout when I left, I asked for IP, and started a small data science platform. I have worked as a contractor with the Navy, Darpa, GE and Microsoft. Most recently I have been working in eCommerce. 
                   </p>
                 </div>
                 <div className="info-list">
@@ -69,36 +63,22 @@ const About = () => {
                           <span>Amanda Edling</span>
                         </li>
                         <li>
-                          <label>Birthday: </label>
-                          <span>4th April 1994</span>
-                        </li>
-                        <li>
-                          <label>Age: </label>
-                          <span>26 years</span>
-                        </li>
-                        <li>
-                          <label>Address: </label>
-                          <span>San Francisco</span>
-                        </li>
+                          <label>Location: </label>
+                          <span>
+                            Coraopolis, PA
+                          </span>
+                        </li>                       
                       </ul>
                     </div>
                     <div className="col-sm-6">
                       <ul>
                         <li>
                           <label>Phone: </label>
-                          <span>(+38) 469 2344 2364</span>
+                          <span>303-522-0804</span>
                         </li>
                         <li>
                           <label>Email: </label>
-                          <span>info@domainname.com</span>
-                        </li>
-                        <li>
-                          <label>Skype: </label>
-                          <span>nairob.40</span>
-                        </li>
-                        <li>
-                          <label>Freelance: </label>
-                          <span>Available</span>
+                          <span>artmyshkin@gmail.com</span>
                         </li>
                       </ul>
                     </div>
@@ -122,7 +102,7 @@ const About = () => {
 
           {/* End separated */}
           <div className="title">
-            <h3>What I do?</h3>
+            <h3>What I do.</h3>
           </div>
 
           <Services />

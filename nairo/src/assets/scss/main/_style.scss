@@ -172,14 +172,14 @@
     background-position: top left;
     @media screen and (max-width: 1199px) {
       width: 84vw;
-      opacity: 0.6;
+      opacity: 0.2;
     }
     @include down-md {
-      opacity: 0.6;
+      opacity: 0.2;
       width: 80vw;
     }
     @include down-sm {
-      opacity: 0.4;
+      opacity: 0.2;
       width: 102vw;
     }
   }
@@ -361,34 +361,25 @@
     a {
       width: 35px;
       height: 35px;
-      line-height: 31px;
+      line-height: 30px;
       background: $px-white;
       border: 2px solid $px-white;
-      color: $px-dark;
+      color: $px-theme;
       text-align: center;
       border-radius: 50%;
       position: relative;
       margin: 0 5px;
       @include transition(ease all 0.35s);
       .theme-light & {
-        background: $px-dark;
+        background: $px-theme;
         color: $px-white;
       }
       @include scale(1);
       i {
         line-height: inherit;
       }
-      &:nth-child(1) {
-        top: -25px;
-      }
       &:nth-child(2) {
-        top: -8px;
-      }
-      &:nth-child(4) {
-        top: -8px;
-      }
-      &:nth-child(5) {
-        top: -25px;
+        top: 5px;
       }
       &:hover {
         @include scale(1.1);

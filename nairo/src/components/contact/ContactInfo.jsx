@@ -1,4 +1,5 @@
 import React from "react";
+import { HiGlobe, HiPhone, HiMail } from "react-icons/hi";
 
 const ContactInfo = () => {
   return (
@@ -12,7 +13,7 @@ const ContactInfo = () => {
 
         <ul>
           <li className="media">
-            <i className="icon icon-map"></i>
+            <HiGlobe />
             <span className="media-body">
               123 Stree New York City , United States Of America 750065.
             </span>
@@ -20,13 +21,13 @@ const ContactInfo = () => {
           {/* End li */}
 
           <li className="media">
-            <i className="icon icon-envelope"></i>
+            <HiMail />
             <span className="media-body">support@domain.com</span>
           </li>
           {/* End li */}
 
           <li className="media">
-            <i className="icon icon-phone"></i>
+            <HiPhone />
             <span className="media-body">+044 9696 9696 3636</span>
           </li>
           {/* End li */}

@@ -8,8 +8,9 @@ const conctInfo = {
 
 const sliderContent = {
   name: "Amanda",
+  last_name: "Edling",
   designation: "Full-stack Developer",
-  description: `I have over a decade of experience creating user experiences for large e-commerce sites (like Dicks Sporting Goods and Arrow Electronics) as well educational platforms, apps, smart tv apps and enterprise software.`,
+  description: `I have over 12 years of experience creating user experiences for large e-commerce sites (like Dicks Sporting Goods and Arrow Electronics) as well educational platforms, apps, smart tv apps and enterprise software.`,
   btnText: " Donwload CV",
 };
 
@@ -43,15 +44,23 @@ const Slider = () => {
                 >
                   {sliderContent.name}
                 </h1>
+                <h1
+                  className="font-alt"
+                  data-aos="fade-up"
+                  data-aos-duration="1200"
+                  data-aos-delay="100"
+                >
+                  {sliderContent.last_name}
+                </h1>
                 <div
                   data-aos="fade-up"
                   data-aos-duration="1200"
                   data-aos-delay="200"
                 >
                   <TextLoop>
+                    <p className="loop-text lead">Creative Lead</p>
                     <p className="loop-text lead">UX Designer</p>
-                    <p className="loop-text lead"> UX Researcher</p>
-                    <p className="loop-text lead"> Creative Lead</p>
+                    <p className="loop-text lead">UX Research</p>
                   </TextLoop>
                 </div>
 
@@ -71,7 +80,7 @@ const Slider = () => {
                 >
                   <a
                     className="px-btn px-btn-white"
-                    href="img/resume.png"
+                    href="img/resume.pdf"
                     download
                   >
                     {sliderContent.btnText}
