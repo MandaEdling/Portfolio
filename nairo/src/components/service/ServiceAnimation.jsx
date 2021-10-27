@@ -3,21 +3,20 @@ import React from "react";
 const ServiceContent = [
   {
     icon: "icon-mobile",
-    title: "Web Design",
-    descriptions: `Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-    eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
-    delayAnimation: "",
+    title: "Mockups & Prototypes",
+    descriptions: `sldfjsdlkf`,
+    delayAnimation: "100",
   },
   {
-    icon: "icon-desktop",
-    title: "Web Development",
+    icon: "icon-magnifying-glass",
+    title: "Research & Discovery",
     descriptions: `Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
     eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
     delayAnimation: "200",
   },
   {
-    icon: "icon-target",
-    title: "Seo Marketing",
+    icon: "icon-profile-female",
+    title: "Human Interaction",
     descriptions: `Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
     eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
     delayAnimation: "400",
