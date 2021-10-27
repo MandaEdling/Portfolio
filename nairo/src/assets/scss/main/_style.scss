@@ -675,7 +675,7 @@
       position: relative;
       @include transition(ease all 0.55s);
       height: 10px;
-      background: darken($px-splash, 10%);
+      background: darken($px-splash, 15%);
     }
   }
 }
