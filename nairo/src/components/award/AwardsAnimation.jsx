@@ -2,21 +2,21 @@ import React from "react";
 
 const AwardContnet = [
   {
-    img: "a1",
-    awardName: "Creative Designer",
-    awardFor: "Site of the day",
+    img: "boomtown",
+    awardName: "Boomtown Accelerator",
+    awardFor: "Investment Recipient, 2016",
     delayAnimation: "0",
   },
   {
-    img: "a2",
-    awardName: "Yearly Best Performer",
-    awardFor: "Site of the day",
+    img: "wildsound",
+    awardName: "WILDsound Film Festival",
+    awardFor: "TV Screenplay Finalist, 2009",
     delayAnimation: "200",
   },
   {
-    img: "a3",
-    awardName: "Best Learner Award",
-    awardFor: "Site of the day",
+    img: "deadborn",
+    awardName: "Deadborn",
+    awardFor: "Terrible novel I wrote. If you really want to read it you can find it on Amazon.", 
     delayAnimation: "400",
   },
 ];

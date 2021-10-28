@@ -121,7 +121,7 @@ const About = () => {
           {/* End separated */}
 
           <div className="title">
-            <h3>Awards.</h3>
+            <h3>Achievements.</h3>
           </div>
 
           <Awards />

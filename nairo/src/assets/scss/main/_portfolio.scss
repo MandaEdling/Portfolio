@@ -164,7 +164,7 @@
       height: 100%;
       top: 0;
       left: 0;
-      background: darken($px-splash, 15%);
+      background: rgba($px-dark, 0.5);
       pointer-events: none;
       opacity: 0;
       visibility: hidden;

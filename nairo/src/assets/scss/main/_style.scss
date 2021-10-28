@@ -229,7 +229,7 @@
       text-transform: capitalize;
       margin-bottom: 15px;
       .theme-light & {
-        color: $px-theme;
+        color: darken($px-theme, 10%);
         line-height: 1.2;
       }
       @include down-sm {
@@ -624,7 +624,7 @@
       padding: 5px 10px;
       border-radius: 3px;
       color: $px-white;
-      background: $px-theme;
+      background: $px-dark;
       font-size: 12px;
       font-weight: 500;
     }

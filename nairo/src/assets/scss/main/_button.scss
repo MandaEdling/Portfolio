@@ -13,15 +13,15 @@
   letter-spacing: 0.3px;
   cursor: pointer !important;
   &.btn-outline {
-    border: 2px solid $px-theme;
+    border: 2px solid darken($px-theme, 10%);
     &:hover {
-      background: $px-theme;
+      background: darken($px-theme, 10%);
       color: #fff;
     }
   }
   &.px-btn-theme {
-    background: $px-theme;
-    border: 2px solid $px-theme;
+    background: darken($px-theme, 10%);
+    border: 2px solid darken($px-theme, 10%);
     color: #fff;
     &:hover {
       background: $px-white;
@@ -31,18 +31,18 @@
   &.px-btn-white {
     background: $px-white;
     border-color: $px-white;
-    color: $px-theme;
+    color: darken($px-theme, 10%);
     .theme-light & {
       color: $px-white;
-      background: $px-theme;
-      border-color: $px-theme;
+      background: darken($px-theme, 10%);
+      border-color: darken($px-theme, 10%);
     }
     &:hover {
       background: transparent;
       color: $px-white;
       transform: translateY(0px);
       .theme-light & {
-        color: $px-theme;
+        color: darken($px-theme, 10%);
       }
     }
   }
