@@ -4,28 +4,28 @@ import VisibilitySensor from "react-visibility-sensor";
 
 const skillContent = [
   {
-    name: "HTML5",
+    name: "human Computer Interaction",
     numberPercent: "92",
     startCount: "0",
     endCount: "92",
   },
   {
-    name: "React JS",
-    numberPercent: "85",
-    startCount: "0",
-    endCount: "85",
-  },
-  {
-    name: "Vue Js",
+    name: "UX / UI",
     numberPercent: "90",
     startCount: "0",
     endCount: "90",
   },
   {
-    name: "Ui/Ux",
-    numberPercent: "88",
+    name: "Research & Design",
+    numberPercent: "90",
     startCount: "0",
-    endCount: "88",
+    endCount: "90",
+  },
+  {
+    name: "Frontend Dev (Angular & React)",
+    numberPercent: "65",
+    startCount: "0",
+    endCount: "65",
   },
 ];
 

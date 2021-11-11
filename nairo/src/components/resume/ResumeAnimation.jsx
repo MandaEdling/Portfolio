@@ -3,61 +3,64 @@ import Skills from "../skills/Skills";
 
 const resumeContent = [
   {
-    jobPosition: `Sr. Front-end Engineer`,
-    jobType: `Google | Remote`,
-    jobDuration: `Feb 2021 - Present`,
+    jobPosition: `Sr. UX Designer eCommerce`,
+    jobType: `Remote`,    
+    jobDuration: `Feb 2020 - Present`,
     timeDuraton: `Full Time`,
-    compnayName: "Google LLC",
-    jobDescription: `Adipisicing Lorem ipsum dolor sit amet, consectetur elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna
-    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor.`,
+    compnayName: "Dick's Sporting Goods",
+    jobDescription: `Recently built two new brands including leading the kickoff for the UX design effort for the Public Lands brand, Fall 2021. I currently support two product teams Search and Browse and Athlete Engagement, over 20 engineers and I oversee top of the funnel eComm design interns`,
     delayAnimation: "",
   },
   {
-    jobPosition: `Visual Designer`,
-    jobType: `Ridian | Remote`,
-    jobDuration: `Mar 2020 - Present`,
-    timeDuraton: `Part Time`,
-    compnayName: "Ridian IT",
-    jobDescription: `Ut enim ad minim veniam, quis nostrud exercitation ullamco
-    laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-    irure dolor. Lorem ipsum dolor sit amet, consectetur
-    adipisicing elit, sed do eiusmod tempor incididunt ut
-    labore et dolore magna aliqua.`,
+    jobPosition: `Sr. UX Designer and Web Engineer`,
+    jobDuration: `Oct 2018 - Feb 2020`,
+    timeDuraton: `Full Time`,
+    compnayName: "Arrow Electronics",
+    jobDescription: `By leveraging user research, testing, best practices and site auditing, I worked to reduce design debt and improve customer interactions, WCAG compliance and customer conversion. I also supported the eComm site product team for customer accounts, cart and checkout.`,
     delayAnimation: "100",
   },
   {
-    jobPosition: `Animation Artist`,
-    jobType: `IbThemes | Remote`,
-    jobDuration: `Jan 2019 - Present`,
+    jobPosition: `UX Design and Frontend Consultant`,
+    jobType: `Remote`,
+    jobDuration: `May 2016 - Oct 2018`,
     timeDuraton: `Full Time`,
-    compnayName: "IB Themes",
-    jobDescription: ` Consectetur adipisicing elit,lorem ipsum dolor sit amet,
-    sed do eiusmod tempor incididunt ut labore et dolore magna
-    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor.`,
+    compnayName: "Customers: bitovi.com, homerenergy.com, ceremetrix.io, rfprepared.com, niteolighting.com",
+    jobDescription: `I tested, created and iterated designs and also did frontend development in Angular and React.`,
     delayAnimation: "200",
   },
+  {
+    jobPosition: `Co-Founder and CEO`,
+    jobDuration: `May 2016 - Dec 2017`,
+    timeDuraton: `Full Time`,
+    compnayName: "Emrys Inc",
+    jobDescription: `Co-founder of Emrys Inc a data science platform. Company pitch: https://www.youtube.com/watch?v=uhl_NBhT0M8 `,
+    delayAnimation: "300",
+  },
+  {
+    jobPosition: `Agency Partner & Design Lead`,
+    jobDuration: `Mar 2011 - May 2016`,
+    timeDuraton: `Full Time`,
+    compnayName: "Archethought LLC",
+    jobDescription: `Was made partner at the agency in 2013 and lead the frontend engineering and design team for Archethought untill I took an IP buyout to start Emrys Inc.`,
+    delayAnimation: "400",
+  },  
 ];
 
 const educatonContent = [
   {
-    passingYear: "2018-2020",
-    degreeTitle: "Ph.D in Horriblensess",
-    instituteName: "University Of Evil Doing",
+    passingYear: "2005-2008",
+    degreeTitle: "Bachelor of Media Arts & Animation",
+    instituteName: "Art Institute of Colorado",
   },
   {
-    passingYear: "2013-2016",
-    degreeTitle: "Bsc. in Computer Science",
-    instituteName: "World University",
+    passingYear: "1998-2003",
+    degreeTitle: "Bachelor of Fine Art",
+    instituteName: "CU Boulder",
   },
   {
-    passingYear: "2010-2012",
-    degreeTitle: "Graphic Artist Training ",
-    instituteName: "Graphic Master Institute",
+    passingYear: "1998-2003",
+    degreeTitle: "Bachelor of English",
+    instituteName: "CU Boulder",
   },
 ];
 

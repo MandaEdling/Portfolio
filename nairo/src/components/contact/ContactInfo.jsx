@@ -7,30 +7,29 @@ const ContactInfo = () => {
       <div className="contact-info">
         <h4>What’s your story? Get in touch</h4>
         <p>
-          Always available for freelancing if the right project comes along,
-          Feel free to contact me.
+          Contact me with questions or if you would like to chat about an opportunity.
         </p>
 
         <ul>
-          <li className="media">
+          {/*<li className="media">
             <HiGlobe />
             <span className="media-body">
-              123 Stree New York City , United States Of America 750065.
+              Remote
             </span>
-          </li>
+          </li>*/}
           {/* End li */}
 
           <li className="media">
             <HiMail />
-            <span className="media-body">support@domain.com</span>
+            <span className="media-body">artmyshkin@gmail.com</span>
           </li>
           {/* End li */}
 
-          <li className="media">
+          {/*<li className="media">
             <HiPhone />
             <span className="media-body">+044 9696 9696 3636</span>
-          </li>
-          {/* End li */}
+          </li>*/}
+          {/* En}d li */}
         </ul>
       </div>
       {/* End .contact-info */}

@@ -16,7 +16,7 @@ const AwardContnet = [
   {
     img: "deadborn",
     awardName: "Deadborn",
-    awardFor: "Terrible novel I wrote. If you really want to read it you can find it on Amazon.", 
+    awardFor: "Terrible novel I wrote.  You can find it on Amazon.", 
     delayAnimation: "400",
   },
 ];
