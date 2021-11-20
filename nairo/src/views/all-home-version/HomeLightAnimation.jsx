@@ -54,7 +54,7 @@ const HomeOne = () => {
         <div className="container">
           <div className="row">
             <div
-              className="col-lg-5 col-xl-4 m-15px-tb"
+              className="col-lg-12"
               data-aos="fade-right"
               data-aos-duration="1200"
             >
@@ -62,7 +62,7 @@ const HomeOne = () => {
             </div>
             {/* End Contact info */}
 
-            <div
+            {/*<div
               className="col-lg-7 ml-auto m-15px-tb"
               data-aos="fade-right"
               data-aos-duration="1200"
@@ -72,7 +72,7 @@ const HomeOne = () => {
                 <h4>Say Something</h4>
                 <Contact />
               </div>
-            </div>
+            </div>*/}
             {/* End contact form */}
 
             <div

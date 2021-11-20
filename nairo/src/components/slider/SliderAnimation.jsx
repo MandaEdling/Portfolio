@@ -10,7 +10,7 @@ const sliderContent = {
   name: "Amanda",
   last_name: "Edling",
   designation: "Full-stack Developer",
-  description: `I have over 12 years of experience creating user experiences for large e-commerce sites (like Dicks Sporting Goods and Arrow Electronics) as well educational platforms, apps, smart tv apps and enterprise software.`,
+  description: `I have over a decade of experience creating user experiences for large e-commerce sites as well educational platforms, progressive apps, smart tv apps and enterprise software.`,
   btnText: " Donwload CV",
 };
 
@@ -60,7 +60,7 @@ const Slider = () => {
                   <TextLoop>
                     <p className="loop-text lead">Creative Lead</p>
                     <p className="loop-text lead">UX Designer</p>
-                    <p className="loop-text lead">UX Research</p>
+                    <p className="loop-text lead">Lover of Data</p>
                   </TextLoop>
                 </div>
 

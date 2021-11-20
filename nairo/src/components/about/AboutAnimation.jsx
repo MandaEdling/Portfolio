@@ -51,7 +51,7 @@ const About = () => {
                     I have worn many hats. I love growing teams and problem solving. I live for moments of insight and discovery.
                   </p>                  
                   <p>
-                    My career as a UX designer has not been a straight line. I began life as a 3D animator, working for a casual subscription based MMO. I started doing UX design and research as a favor for a friend who had a small startup that got bought by the Kudelski Group. I have worked in two different consultancies, becoming a partner in the last one. Instead of taking a money as a buyout when I left, I asked for IP, and started a small data science platform. I have worked as a contractor with the Navy, Darpa, GE and Microsoft. Most recently I have been working in eCommerce. 
+                    My career as a UX designer has not been a straight line. I began life as a 3D animator, working for a casual subscription based MMO. I started doing UX design and research as a favor for a friend who had a small startup that got bought by the Kudelski Group. I have worked in two different consultancies, becoming a partner in the last one. Instead of taking money as a buyout when I left that partnership, I asked for IP, and started a small data science platform. I have worked as a contractor with the Navy, Darpa, GE and Microsoft. Most recently I have been working in eCommerce for Dicks Sporting Goods. 
                   </p>
                 </div>
                 <div className="info-list">

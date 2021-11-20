@@ -8,7 +8,7 @@ const resumeContent = [
     jobDuration: `Feb 2020 - Present`,
     timeDuraton: `Full Time`,
     compnayName: "Dick's Sporting Goods",
-    jobDescription: `Recently built two new brands including leading the kickoff for the UX design effort for the Public Lands brand, Fall 2021. I currently support two product teams Search and Browse and Athlete Engagement, over 20 engineers and I oversee top of the funnel eComm design interns`,
+    jobDescription: `Recently built two new brands including leading the kickoff for the UX design effort for the Public Lands brand, Fall 2021. I currently support two product teams Search and Browse and Athlete Engagement, over 20 engineers and I oversee top of the funnel interns.`,
     delayAnimation: "",
   },
   {
@@ -16,7 +16,7 @@ const resumeContent = [
     jobDuration: `Oct 2018 - Feb 2020`,
     timeDuraton: `Full Time`,
     compnayName: "Arrow Electronics",
-    jobDescription: `By leveraging user research, testing, best practices and site auditing, I worked to reduce design debt and improve customer interactions, WCAG compliance and customer conversion. I also supported the eComm site product team for customer accounts, cart and checkout.`,
+    jobDescription: `By leveraging user research, testing, best practices and site auditing, I worked to reduce design debt and improve customer interactions and WCAG compliance and customer conversion. I also supported the eComm site product team for customer accounts, cart and checkout.`,
     delayAnimation: "100",
   },
   {
@@ -25,7 +25,7 @@ const resumeContent = [
     jobDuration: `May 2016 - Oct 2018`,
     timeDuraton: `Full Time`,
     compnayName: "Customers: bitovi.com, homerenergy.com, ceremetrix.io, rfprepared.com, niteolighting.com",
-    jobDescription: `I tested, created and iterated designs and also did frontend development in Angular and React.`,
+    jobDescription: `I tested, created and iterated designs and also did frontend development in Angular, React and WP as clients needed.`,
     delayAnimation: "200",
   },
   {

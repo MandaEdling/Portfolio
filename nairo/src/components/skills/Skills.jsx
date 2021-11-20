@@ -17,9 +17,9 @@ const skillContent = [
   },
   {
     name: "Research & Design",
-    numberPercent: "90",
+    numberPercent: "85",
     startCount: "0",
-    endCount: "90",
+    endCount: "85",
   },
   {
     name: "Frontend Dev (Angular & React)",

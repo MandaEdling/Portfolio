@@ -32,11 +32,9 @@ export default function SimpleSlider() {
   const TestimonilContent = [
     {
       imageName: "team-1",
-      desc: `  Lorem Ipsum is simply dummy text of the printing and
-      typesetting industry. Lorem Ipsum has been the industry's
-      standard dummy text ever since the 1500s.`,
-      reviewerName: "Nancy Byers",
-      designation: "CEO at ib-themes",
+      desc: `Amanda is an amazing UX designer. I relied on her expertise as an experience expert to develop multiple features while we were team mates. She has a knack for asking the insightful question that drives ecommerce feature development. Her skill at user research and her innate understanding of how our athletes think were integral to our ability to meet the needs of our athlete. More importantly, she was able to synthesize that information into actionable steps that drove iteration and allowed the team to move fast to completion.`,
+      reviewerName: "David Schaffner",
+      designation: "Senior Product Manager - Search and Browse at DICK'S Sporting Goods",
     },
     {
       imageName: "team-2",
