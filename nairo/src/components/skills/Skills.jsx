@@ -11,21 +11,21 @@ const skillContent = [
   },
   {
     name: "UX / UI",
-    numberPercent: "90",
-    startCount: "0",
-    endCount: "90",
-  },
-  {
-    name: "Research & Design",
     numberPercent: "85",
     startCount: "0",
     endCount: "85",
   },
   {
-    name: "Frontend Dev (Angular & React)",
-    numberPercent: "65",
+    name: "Research & Design",
+    numberPercent: "90",
     startCount: "0",
-    endCount: "65",
+    endCount: "90",
+  },
+  {
+    name: "Frontend Dev (Angular & React)",
+    numberPercent: "60",
+    startCount: "0",
+    endCount: "60",
   },
 ];
 
