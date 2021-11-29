@@ -100,7 +100,7 @@ const AllPortfolioContent = [
     subTitle: "Prototype",
     alterText: "JS Frontend Prototyping",
     delayAnimation: "300",
-    portfolioLink: "empty",
+    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
   },
   {
     img: "prototype",
@@ -108,7 +108,7 @@ const AllPortfolioContent = [
     subTitle: "Microgrid Design Software",
     alterText: "Homer Energy SAAS",
     delayAnimation: "400",
-    portfolioLink: "",
+    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
   },
   {
     img: "data1",
@@ -116,7 +116,7 @@ const AllPortfolioContent = [
     subTitle: "Data Science Toolbox",
     alterText: "Screenshot Emrys Website",
     delayAnimation: "400",
-    portfolioLink: "",
+    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
   },
   {
     img: "process",
@@ -124,7 +124,7 @@ const AllPortfolioContent = [
     subTitle: "AB Testing",
     alterText: "AB Testing Process",
     delayAnimation: "400",
-    portfolioLink: "",
+    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
   },
   {
     img: "journey",
@@ -132,7 +132,7 @@ const AllPortfolioContent = [
     subTitle: "Journey Map",
     alterText: "Feature Journey Map",
     delayAnimation: "500",
-    portfolioLink: "",
+    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
   },
   {
     img: "interview-synthesis",
@@ -140,7 +140,7 @@ const AllPortfolioContent = [
     subTitle: "CX Interviews",
     alterText: "Insight Gathering",
     delayAnimation: "500",
-    portfolioLink: "",
+    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
   },
   {
     img: "journey2",
@@ -148,7 +148,7 @@ const AllPortfolioContent = [
     subTitle: "Macro view of site experience",
     alterText: "Journey Mapping Exercise",
     delayAnimation: "500",
-    portfolioLink: "",
+    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
   },
   {
     img: "brainstorm-scope",
@@ -156,7 +156,7 @@ const AllPortfolioContent = [
     subTitle: "Group Brainstorming Activity",
     alterText: "Remote Project Scope Exercise",
     delayAnimation: "500",
-    portfolioLink: "",
+    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
   },
   {
     img: "pointhouse2",
@@ -164,7 +164,7 @@ const AllPortfolioContent = [
     subTitle: "Lighting Design Niteo Lighting",
     alterText: "Niteo Concept Work",
     delayAnimation: "600",
-    portfolioLink: "",
+    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
   },
   {
     img: "staude1",
@@ -172,7 +172,7 @@ const AllPortfolioContent = [
     subTitle: "Lighting Design Niteo Lighting",
     alterText: "Niteo Concept Work",
     delayAnimation: "600",
-    portfolioLink: "",
+    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
   },
   {
     img: "sketch-samples",
@@ -180,7 +180,7 @@ const AllPortfolioContent = [
     subTitle: "Sketches & Character Art",
     alterText: "Character Concept Art",
     delayAnimation: "700",
-    portfolioLink: "",
+    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
   },
   {
     img: "test",
@@ -188,7 +188,7 @@ const AllPortfolioContent = [
     subTitle: "3D Wireframing & Animation",
     alterText: "Blender Animation",
     delayAnimation: "700",
-    portfolioLink: "",
+    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
   },
 ];
 
@@ -279,7 +279,7 @@ const BrandingPortfolioContent = [ //Design
     subTitle: "Microgrid Design Software",
     alterText: "Homer Energy SAAS",
     delayAnimation: "200",
-    portfolioLink: "",
+    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
   },
   {
     img: "data1",
@@ -287,7 +287,7 @@ const BrandingPortfolioContent = [ //Design
     subTitle: "Data Science Toolbox",
     alterText: "Screenshot Emrys Website",
     delayAnimation: "200",
-    portfolioLink: "",
+    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
   },
 ];
 const PhotographyPortfolioContent = [ //Research
@@ -297,7 +297,7 @@ const PhotographyPortfolioContent = [ //Research
     subTitle: "Journey Map",
     alterText: "Feature Journey Map",
     delayAnimation: "0",
-    portfolioLink: "",
+    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
   },
   {
     img: "interview-synthesis",
@@ -305,7 +305,7 @@ const PhotographyPortfolioContent = [ //Research
     subTitle: "CX Interviews",
     alterText: "Insight Gathering",
     delayAnimation: "100",
-    portfolioLink: "",
+    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
   },
   {
     img: "journey2",
@@ -313,7 +313,7 @@ const PhotographyPortfolioContent = [ //Research
     subTitle: "Macro view of site experience",
     alterText: "Journey Mapping Exercise",
     delayAnimation: "200",
-    portfolioLink: "",
+    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
   },
   {
     img: "brainstorm-scope",
@@ -321,7 +321,7 @@ const PhotographyPortfolioContent = [ //Research
     subTitle: "Group Brainstorming Activity",
     alterText: "Remote Project Scope Exercise",
     delayAnimation: "0",
-    portfolioLink: "",
+    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
   },
   {
     img: "graphs",
@@ -329,7 +329,7 @@ const PhotographyPortfolioContent = [ //Research
     subTitle: "Prototype",
     alterText: "JS Frontend Prototyping",
     delayAnimation: "100",
-    portfolioLink: "",
+    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
   },
 ];
 
@@ -340,7 +340,7 @@ const FashionPortfolioContent = [ //Fun
     subTitle: "Lighting Design Niteo Lighting",
     alterText: "Niteo Concept Work",
     delayAnimation: "0",
-    portfolioLink: "",
+    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
   },
   {
     img: "staude1",
@@ -348,7 +348,7 @@ const FashionPortfolioContent = [ //Fun
     subTitle: "Lighting Design Niteo Lighting",
     alterText: "Niteo Concept Work",
     delayAnimation: "100",
-    portfolioLink: "",
+    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
   },
   {
     img: "sketch-samples",
@@ -356,7 +356,7 @@ const FashionPortfolioContent = [ //Fun
     subTitle: "Sketches & Character Art",
     alterText: "Character Concept Art",
     delayAnimation: "200",
-    portfolioLink: "",
+    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
   },
   {
     img: "test",
@@ -364,7 +364,7 @@ const FashionPortfolioContent = [ //Fun
     subTitle: "3D Wireframing & Animation",
     alterText: "Blender Animation",
     delayAnimation: "100",
-    portfolioLink: "",
+    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
   },
 ];
 
