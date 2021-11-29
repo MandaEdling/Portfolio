@@ -164,7 +164,7 @@ const AllPortfolioContent = [
     subTitle: "Lighting Design Niteo Lighting",
     alterText: "Niteo Concept Work",
     delayAnimation: "600",
-    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
+    portfolioLink: "https://www.behance.net/gallery/132230415/Extras",
   },
   {
     img: "staude1",
@@ -172,7 +172,7 @@ const AllPortfolioContent = [
     subTitle: "Lighting Design Niteo Lighting",
     alterText: "Niteo Concept Work",
     delayAnimation: "600",
-    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
+    portfolioLink: "https://www.behance.net/gallery/132230415/Extras",
   },
   {
     img: "sketch-samples",
@@ -180,7 +180,7 @@ const AllPortfolioContent = [
     subTitle: "Sketches & Character Art",
     alterText: "Character Concept Art",
     delayAnimation: "700",
-    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
+    portfolioLink: "https://www.behance.net/gallery/132230415/Extras",
   },
   {
     img: "test",
@@ -188,7 +188,7 @@ const AllPortfolioContent = [
     subTitle: "3D Wireframing & Animation",
     alterText: "Blender Animation",
     delayAnimation: "700",
-    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
+    portfolioLink: "https://www.behance.net/gallery/132230415/Extras",
   },
 ];
 
@@ -340,7 +340,7 @@ const FashionPortfolioContent = [ //Fun
     subTitle: "Lighting Design Niteo Lighting",
     alterText: "Niteo Concept Work",
     delayAnimation: "0",
-    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
+    portfolioLink: "https://www.behance.net/gallery/132230415/Extras",
   },
   {
     img: "staude1",
@@ -348,7 +348,7 @@ const FashionPortfolioContent = [ //Fun
     subTitle: "Lighting Design Niteo Lighting",
     alterText: "Niteo Concept Work",
     delayAnimation: "100",
-    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
+    portfolioLink: "https://www.behance.net/gallery/132230415/Extras",
   },
   {
     img: "sketch-samples",
@@ -356,7 +356,7 @@ const FashionPortfolioContent = [ //Fun
     subTitle: "Sketches & Character Art",
     alterText: "Character Concept Art",
     delayAnimation: "200",
-    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
+    portfolioLink: "https://www.behance.net/gallery/132230415/Extras",
   },
   {
     img: "test",
@@ -364,7 +364,7 @@ const FashionPortfolioContent = [ //Fun
     subTitle: "3D Wireframing & Animation",
     alterText: "Blender Animation",
     delayAnimation: "100",
-    portfolioLink: "https://www.behance.net/gallery/132229987/UX-Design-and-Research",
+    portfolioLink: "https://www.behance.net/gallery/132230415/Extras",
   },
 ];
 
