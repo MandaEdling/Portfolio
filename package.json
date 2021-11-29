@@ -1,5 +1,6 @@
 {
-  "name": "portfolio",
+  "name": "Digital Much",
+  "homepage": "http://digitalmuch.com",
   "version": "1.0.0",
   "description": "Amanda Edling's Portfolio",
   "main": "index.js",
