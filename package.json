@@ -1,7 +1,7 @@
 {
-  "name": "Digital Much",
-  "homepage": "https://github.com/themyshkin/Portfolio#readme",
-  "version": "1.0.0",
+  "name": "Digitalmuch",
+  "homepage": "https://digitalmuch.com",
+  "version": "1.0.1",
   "description": "Amanda Edling's Portfolio",
   "main": "index.js",
   "scripts": {
