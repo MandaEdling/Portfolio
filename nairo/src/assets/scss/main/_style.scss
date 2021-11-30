@@ -51,8 +51,7 @@
       animation: slide-both-side 4s infinite both;
 
       .theme-light & {
-        background: rgba($px-splash, 0.50);
-        box-shadow: 0 4px 4px 0 rgba($color: #000000, $alpha: .25)  ;
+        background: rgba($px-splash, 0.5);
       }
       @include down-md {
         top: -4px;
